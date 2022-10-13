@@ -1,5 +1,11 @@
 # TEMPLATE-docs
 
+
+Storybook is here:
+
+Production: https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs/
+QA: https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs-qa/
+
 This repo is a template repo used in the GitHub Actions scripts of several 
 repos in this organization.  It forms the initial template for the `-docs` 
 and `-docs-qa` repos used with GitHub pages to publish documentation.
